@@ -6,3 +6,6 @@ Idli
 Poori
 Bajji
 Uggani
+
+Beans
+Pizza
